@@ -2,7 +2,7 @@
 
 Source code for "Transformer-Based Multimodal Pomegranate Disease Detection (ICAR-affiliated)" as part of a joint project by NITK and the Indian Council for Agricultural Research (ICAR).
 
-This project implements an end-to-end pipeline for pomegranate crop disease detection using a semi-supervised learning approach with a hybrid EfficientNet and Vision Transformer (ViT) model. It includes data preprocessing with strong and weak augmentations, background removal, FixMatch-style SSL training, Grad-CAM visualization for model explainability, and ONNX export for deployment. For full implementation details and explanations, visit my blog post at https://www.deeper-thoughts-blog.rohithshinoj.com/blog/deploying-ai-in-agriculture.
+This project implements an end-to-end pipeline for pomegranate crop disease detection using a semi-supervised learning approach with a hybrid EfficientNet and Vision Transformer (ViT) model. It includes data preprocessing with strong and weak augmentations, background removal, FixMatch-style SSL training, Grad-CAM visualization for model explainability, and ONNX export for deployment. For full implementation details and explanations, visit my blog article at [Deploying AI in Agriculture: How we built a Semi-Supervised ViT pipeline for ICAR](https://www.deeper-thoughts-blog.rohithshinoj.com/blog/deploying-ai-in-agriculture) on [DeeperThoughts](https://www.deeper-thoughts-blog.rohithshinoj.com) 
 
 
 ## Features
